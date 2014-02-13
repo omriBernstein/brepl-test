@@ -1,6 +1,6 @@
 If you are looking to try out [ClojureScript](https://github.com/clojure/clojurescript) online, this is not that. Instead, [see here](http://clojurescript.net/). Below are instructions for getting a local ClojureScript browser [REPL](http://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop) up and running, based eniterly on [this video](http://www.youtube.com/watch?v=OqCOA8P8QOY&noredirect=1). You will need:
 <br>&nbsp;&nbsp;0. A [computer](http://www.urbandictionary.com/define.php?term=computer)
-<br>&nbsp;&nbsp;1. The digital folder and files that go with this README
+<br>&nbsp;&nbsp;1. The [digital folder and files that go with this README](https://github.com/omriBernstein/brepl-test)
 <br>&nbsp;&nbsp;2. A [command line interace](http://en.wikipedia.org/wiki/Command-line_interface) program for your operating system, also known as a "terminal"
 <br>&nbsp;&nbsp;3. An [internet browser](http://en.wikipedia.org/wiki/Web_browser)
 <br>&nbsp;&nbsp;4. [Leiningen](http://leiningen.org/) version 2.0.0 or higher

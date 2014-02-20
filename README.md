@@ -25,7 +25,7 @@ Wait for the project to compile, giving the following output before returning on
 
 Now enter (still in the proper directory):
 
-    rlwrap -pBLUE lein trampoline cljsbuild repl-listen
+    lein trampoline cljsbuild repl-listen
 
 Wait for the following to appear in the terminal:
 
@@ -59,4 +59,4 @@ When you want to quit the REPL, type in:
 
 ##Recurring use
 
-If you want to run this local browser REPL again, just follow the instructions starting at [**Run the REPL**](#run-the-repl). If, as it has for me, the REPL sometimes becomes unresponsive&#8212;neither working nor explicitly erroring&#8212;try doing `lein cljsbuild once` again and retry.
+If you want to run this local browser REPL again, just follow the instructions starting at [**Run the REPL**](#run-the-repl). If, as it has for me, the REPL sometimes becomes unresponsive&mdash;neither working nor explicitly erroring&mdash;try doing `lein cljsbuild once` again and retry.
